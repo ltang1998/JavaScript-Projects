@@ -16,3 +16,6 @@ document.write("I love pigs"+ " and dogs!<br>");
 
 var song = "abc", author = " by MC Jin";
 document.write(song);
+
+var statementC = "<br>one plus one " + "equals to two!"
+document.write(statementC);
