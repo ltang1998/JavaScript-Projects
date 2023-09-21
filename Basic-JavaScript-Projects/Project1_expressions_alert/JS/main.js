@@ -9,5 +9,7 @@ document.write("Hello, World!!!! by document.write.<br>");
 var statement = "Hey everyone!<br>";
 document.write(statement);
 
-var statementB = "I said, \"Good morning boys! I don't like sushi.\"";
+var statementB = "I said, \"Good morning boys! I don't like sushi.\"<br>";
 document.write(statementB);
+
+document.write("I love pigs"+ " and dogs!<br>");
