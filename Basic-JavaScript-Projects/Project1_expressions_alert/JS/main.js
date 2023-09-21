@@ -13,3 +13,6 @@ var statementB = "I said, \"Good morning boys! I don't like sushi.\"<br>";
 document.write(statementB);
 
 document.write("I love pigs"+ " and dogs!<br>");
+
+var song = "abc", author = " by MC Jin";
+document.write(song);
